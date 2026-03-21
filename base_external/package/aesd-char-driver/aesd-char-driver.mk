@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_CHAR_DRIVER_VERSION = 'd26fa2eda0c40153838b81095e66e8d36a8b9a05'
+AESD_CHAR_DRIVER_VERSION = 'ae5c164237b48e792be9fdf79b73161c387e4293'
 AESD_CHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-vash6799.git'
 AESD_CHAR_DRIVER_SITE_METHOD = git
 AESD_CHAR_DRIVER_GIT_SUBMODULES = YES
